@@ -1,4 +1,5 @@
 Nombre: Maya Mabel Pinto Colli
 Correo de contacto: maya.pinto@cbtis72.edu.mx
 
-ConvertirRomanos: Se ejecuta el programa, ingresa el número que se desea convertir y se devuelve el número convertido a números romanos.
+ConvertirRomanos: Se ejecuta el programa, ingresa el número (entero) que se desea convertir y se devuelve el número convertido a números romanos.
+El programa no recibe letras ni números decimales.
